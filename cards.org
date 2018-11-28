@@ -1,0 +1,91 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+
+* N5
+
+** Vocabulary
+
+*** Words
+
+**** Word                                                             :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: twosided
+    :ID:       CB30FC20-6BDF-4231-88B5-E76F82B2CA49
+    :END:
+
+Translate:
+
+*****  Japanese
+  私
+
+*****  English
+  I
+
+*****  Kana
+  わたし
+
+***** Romaji
+anata
+
+**** Word                                                             :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: twosided
+    :ID:       F8A4D5A0-347E-4A93-87E7-6C2023B78AE3
+    :END:
+
+Translate:
+
+*****  Japanese
+  あなた
+
+*****  English
+ you
+
+***** Romaji
+anata
+
+*** Expressions
+
+**** Expression                                                       :drill:
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       4B2FBFFA-6E10-4F1D-A89F-F7312A2222C2
+     :END:
+
+***** Japanese
+ こんにちは。
+
+***** English
+ Hello!
+
+***** Romaji
+ konnichiwa
+
+**** Expression                                                       :drill:
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       4291A8D1-B24F-4F79-AE83-F10C3F71C777
+     :END:
+
+***** Japanese
+ はじめまして
+
+***** English
+ First time meeting you, how do you do?
+
+***** Romaji
+ Hajimemashite
+
+* N4
+
+** Vocabulary
+
+* N3
+
+** Vocabulary
+
+* N2
+
+** Vocabulary
+
+* N1
